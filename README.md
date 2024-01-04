@@ -107,3 +107,6 @@ Ans.) You use props to pass data and values from one component to another to get
 
 Ques17.) What is the Spread Operator in React ?
 Ans.) It provides a concise way to pass props, copy objects, and manage the state.
+
+**---------------------------------------------------------------------------------**
+
