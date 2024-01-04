@@ -103,4 +103,7 @@ Ans.) In ReactJs, the maps are used for traversing or displaying the list of sim
 Ques16.) What is Props in React?
 Ans.) You use props to pass data and values from one component to another to get dynamic and unique outputs.
 
+**---------------------------------------------------------------------------------**
 
+Ques17.) What is the Spread Operator in React ?
+Ans.) It provides a concise way to pass props, copy objects, and manage the state.
