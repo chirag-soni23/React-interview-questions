@@ -60,15 +60,39 @@ Ans.) JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX m
 
 **---------------------------------------------------------------------------------**
 
-Ques10.) What is React hooks used for ?
+Ques10.) What is advantage of jsx ?
+Ans=>
+i.) Improve the code readability and writability
+ii.) Error checking in advance(Type safety)
+iii.) Support javascript wxpression
+iv.) improved perfomance.
+v.) Code resusability
+
+**---------------------------------------------------------------------------------**
+
+Ques11.) What is React hooks used for ?
 Ans.) Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed. Although Hooks generally replace class components, there are no plans to remove classes from React.
 
 **---------------------------------------------------------------------------------**
 
-Ques11.) How many hooks in React ?
+Ques12.) How many hooks in React ?
 Ans.) **15 hooks ⚓** provide in React.js.
 **Some of the most commonly used hooks ⚓ include:**
 1.) useState: - This hook allows you to create state in a functional component.
 2.) useEffect: - This hook allows you to perform side effects in a functional component, such as fetching data or updating the DOM.
 3.) useReducer: - This hook allows you to manage complex state in a functional component.
 4.) useContext: - This hook allows you to access context values in a functional component.
+
+**---------------------------------------------------------------------------------**
+
+Ques13.) What is Transpiler ?
+Ans.) A transpiler is a tool that converts source code from one programming language to another.
+
+**---------------------------------------------------------------------------------**
+
+Ques14.)  What is role of fragment </> in React?
+Ans.) Fragments are syntax that allow us to add multiple elements to a React component without wrapping them in an extra DOM node.
+
+**---------------------------------------------------------------------------------**
+
+Ques15.)
