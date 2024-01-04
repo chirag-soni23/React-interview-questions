@@ -95,4 +95,12 @@ Ans.) Fragments are syntax that allow us to add multiple elements to a React com
 
 **---------------------------------------------------------------------------------**
 
-Ques15.)
+Ques15.) What is the map methos in react ?
+Ans.) In ReactJs, the maps are used for traversing or displaying the list of similar objects of a component.
+
+**---------------------------------------------------------------------------------**
+
+Ques16.) What is Props in React?
+Ans.) You use props to pass data and values from one component to another to get dynamic and unique outputs.
+
+
