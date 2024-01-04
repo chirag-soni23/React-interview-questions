@@ -25,5 +25,8 @@ Ans.)  (i)---******⚛️******---
 3.) Angular is bigger because it is a complete framework.
 4.) Angular is slightly difficult to learn as it has Typescript, OOPS, concept and many more thing.
 
+Ques4.) What is difference between virtual DOM and real DOM ?
+Ans.) Real DOM is the actual structure represented in the User Interface while Virtual DOM is the memory representation of the same.
 
-
+Ques5.) What is React Components ?
+Ans.) In React, a component is a reusable building block for creating user interfaces. 
