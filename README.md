@@ -49,3 +49,27 @@ Ans.) NPM(**node package manager**) is used to manage the dependencies for your 
 
 **---------------------------------------------------------------------------------**
 
+Ques7.) What is the role of public folder in React? 
+Ans.) Public folder contains static assets that are served directly to the user's browser, such as image, fonts, and the index.html file
+
+**---------------------------------------------------------------------------------**
+
+Ques8.) What is the role of src folder in React ?
+Ans.) In React, src folder is used to store all the source code of the application.
+
+**---------------------------------------------------------------------------------**
+
+
+Ques9.) What is jsx ? 
+Ans.) JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.
+
+**---------------------------------------------------------------------------------**
+
+
+Ques10.) What is React hooks used for ?
+Ans.) Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed. Although Hooks generally replace class components, there are no plans to remove classes from React.
+
+**---------------------------------------------------------------------------------**
+
+
+Ques11.) How many hooks in React.
